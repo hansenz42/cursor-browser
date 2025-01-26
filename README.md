@@ -9,6 +9,7 @@
 前提条件：
 - 在你的电脑里安装 Cursor IDE 并且拥有一个 Pro 账号
 - 搭建一个 Python 环境（推荐用 conda 管理环境）
+- 因为使用了 duckduckgo 搜索 API，所以需要挂梯子
 
 # 使用方法
 
