@@ -1,5 +1,7 @@
 # 一个 Cursor 浏览器 Agent 工具
 
+![screenshot](https://github.com/user-attachments/assets/75aa5540-ca48-4547-b57b-2898072d8c8e)
+
 使用 Cursor 自带的 AI Agent 自动搜索并总结网页内容。
 
 前提条件：
