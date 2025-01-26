@@ -4,6 +4,8 @@
 
 使用 Cursor 自带的 AI Agent 自动搜索并总结网页内容。
 
+详细过程可查看我的博客：[原来 Cursor 还能这样用！动手做一个 AI 网页浏览器 | 阿森毛不多](https://www.assen.top/blog/2025-01-21-cursor-ai)
+
 前提条件：
 - 在你的电脑里安装 Cursor IDE 并且拥有一个 Pro 账号
 - 搭建一个 Python 环境（推荐用 conda 管理环境）
@@ -49,6 +51,6 @@ pip install -r requirements.txt
 
 你即可看到 Cursor 自动搜索并总结了关于苏轼的生平。
 
-注意：你需要在 composer 中选择 Agent。
+注意：你在 composer 中选择 Agent，来运行你的命令。
 
 ![Xnip2025-01-26_14-26-03](https://github.com/user-attachments/assets/d5d1da85-cd52-4a63-8c6e-288f09968eca)
