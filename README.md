@@ -48,3 +48,5 @@ pip install -r requirements.txt
 你即可看到 Cursor 自动搜索并总结了关于苏轼的生平。
 
 注意：你需要在 composer 中选择 Agent。
+
+![Xnip2025-01-26_14-26-03](https://github.com/user-attachments/assets/d5d1da85-cd52-4a63-8c6e-288f09968eca)
